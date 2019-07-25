@@ -141,7 +141,7 @@ Panduan umum untuk berkontribusi dapat dibaca pada halaman [berkontribusi](https
 Proyek ini berusaha memberi wadah bagi individu yang tertarik berkontribusi di proyek open-source dari berbagai latar belakang. Seperti yang dijelaskan pada halaman [how to contribute](https://opensource.guide/how-to-contribute/), Anda dapat berkontribusi pada proyek selain implementasi kode. Proyek ini juga memberi kesempatan dari berbagai tingkat keahlian. Ilustrasi berkontribusi di Github:
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 - Jika Anda seorang **_praktisi/akademisi di bidang hidrologi_**, Anda bisa menyampaikan ide/fitur yang cocok disertakan di proyek ini, berdiskusi tentang impelementasi pada python, dll.
@@ -198,7 +198,7 @@ Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran menge
 Mengakhiri tulisan ini dengan video inspiratif dari Github.
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HzZxcfVn_08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/HzZxcfVn_08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div align="center">
