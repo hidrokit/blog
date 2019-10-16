@@ -75,8 +75,8 @@ Terdapat modul:
 
 Saat tulisan ini dibuat, terdapat dua _jupyter notebook_ yang mendemonstrasikan penggunaan `hidrokit`. Demo yang tersedia fokus terhadap topik pemodelan menggunakan _deep learning_ di bidang sumber daya air (kualitas air dan curah hujan-limpasan).
 
-- Prediksi Kualitas Air menggunakan Metode _Artificial Neural Networks_ oleh taruma (v2.0.0) | `hidrokit 0.2.x` | [Kode](https://github.com/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb) | [Lihat melalui NBViewer](https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb)
-- Prediksi Debit Aliran menggunakan _Long Short-Term Memory_ (LSTM) oleh taruma (v1.0.0) | `hidrokit 0.3.x` | Kode | Lihat melalui NBViewer (work in progress)
+- Prediksi Kualitas Air menggunakan Metode _Artificial Neural Networks_ oleh taruma (v2.0.0) \| `hidrokit 0.2.x` \| [Kode](https://github.com/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb) \| [Lihat melalui NBViewer](https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb)
+- (Work In Progress) Prediksi Debit Aliran menggunakan _Long Short-Term Memory_ (LSTM) oleh taruma (v1.0.0) \| `hidrokit 0.3.x` \| Kode \| Lihat melalui NBViewer
 
 ## Catatan
 
