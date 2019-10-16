@@ -8,7 +8,9 @@ Tidak terasa bahwa proyek hidrokit sudah berumur lebih dari satu tahun dari _ini
 
 Dengan umur lebih dari satu tahun, pribadi, saya ingin meluluskan diri saya dari proyek ini dengan harapan membuat/ikut serta proyek menarik yang baru/sudah ada di masa mendatang. Fokus saya akan mengacu pada proyek mendatang, sehingga proyek ini akan bergerak tergantung keaktifan kontributor yang masih tertarik berkontribusi dalam proyek ini. Saya tidak dapat menjanjikan akan ada versi `MINOR` terbaru di masa mendatang untuk proyek ini. Sejauh ini, dengan tenaga satu orang saja, proyek ini akan lambat berkembang dan membebani saya pribadi. 
 
-Oleh karena itu, saya membuat tulisan ini sebagai bentuk serah terima (_handover_) proyek hidrokit dan ucapan terima kasih bagi yang terlibat dalam proyek ini seperti membacanya, membagikannya, bertanya, dll. Tujuan tulisan ini agar memudahkan untuk para pengembang melanjutkan proyek ini ataupun mengembangkan proyek yang baru/serupa. Meski proyek ini terkesan "berakhir" bukan berarti tidak ada yang bisa dipelajari dari pengembangan proyek ini.
+Oleh karena itu, saya membuat tulisan ini sebagai bentuk serah terima (_handover_) proyek hidrokit. Tujuan tulisan ini agar memudahkan untuk para pengembang melanjutkan proyek ini ataupun mengembangkan proyek yang baru/serupa. Meski proyek ini terkesan "berakhir" bukan berarti tidak ada yang bisa dipelajari dari pengembangan proyek ini.
+
+Saya juga ingin mengucapkan terima kasih bagi yang terlibat dalam proyek ini. Terima kasih untuk meluangkan waktu untuk membaca, bertanya, membagikan proyek ini. Semoga ada yang bisa dipelajari dari proyek ini.
 
 ----
 
@@ -41,6 +43,8 @@ Berikut beberapa tujuan hidrokit:
 - Memperkenalkan dan memahami keuntungan proyek open source dan Github.
 - Wadah kreativitas dan membuka kesempatan untuk berkolaborasi atau berdiskusi dari berbagai latar belakang.
 
+----
+
 ## Perkembangan hidrokit
 
 Tanggal | Versi | Keterangan
@@ -53,6 +57,8 @@ Tanggal | Versi | Keterangan
 11 Juli 2019 | v0.2.0 | [Halaman Github](https://github.com/taruma/hidrokit/releases/tag/v0.2.0) \| [Tulisan Blog](https://taruma.github.io/articles/rilis-hidrokit-0-2-0)
 26 Juli 2019 | v0.2.1 | [Halaman Github](https://github.com/taruma/hidrokit/releases/tag/v0.2.1)
 15 Oktober 2019 | v0.3.2 | [Halaman Github](https://github.com/taruma/hidrokit/releases/tag/0.3.2)
+
+----
 
 ## Fitur hidrokit
 
@@ -71,6 +77,8 @@ Terdapat modul:
 - `.graph` ([daftar fungsi](https://hidrokit.readthedocs.io/en/stable/viz.html#module-viz.graph)): Digunakan sebagai modul untuk menampilkan data menggunakan grafik.
 - `.table` ([daftar fungsi](https://hidrokit.readthedocs.io/en/stable/viz.html#module-viz.table)): Digunakan sebagai modul untuk menampilkan data dalam bentuk tabel (pivot)
 
+----
+
 ## Demo hidrokit
 
 Saat tulisan ini dibuat, terdapat dua _jupyter notebook_ yang mendemonstrasikan penggunaan `hidrokit`. Demo yang tersedia fokus terhadap topik pemodelan menggunakan _deep learning_ di bidang sumber daya air (kualitas air dan curah hujan-limpasan).
@@ -83,3 +91,4 @@ Saat tulisan ini dibuat, terdapat dua _jupyter notebook_ yang mendemonstrasikan 
 - Domain hidrokit.online (termasuk subdomain seperti notebook.hidrokit.online dan blog.hidrokit.online) berakhir pada 3 Juli 2021.
 - Seluruh proyek disimpan pada situs Github.com.
 - Jika tertarik dalam mengambil alih proyek ini (akses repo ini) dapat menghubungi saya di hi@taruma.info.
+- Terima kasih untuk semuanya yang terlibat dalam proyek ini. Thank you.
