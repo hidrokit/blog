@@ -5,8 +5,8 @@ baseurl: "/blog"
 url: "https://hidrokit.github.io"
 
 # Theme settings
-theme:          tale
-# remote_theme: chesterhow/tale
+# theme:          tale
+remote_theme: chesterhow/tale
 
 # Build settings
 markdown:       kramdown
