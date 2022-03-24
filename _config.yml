@@ -1,8 +1,8 @@
 # Site settings
 title:          Hidrokit Blog
 description:    "Berita baru mengenai hidrokit"
-baseurl:        ""
-url:            ""
+baseurl: "/blog"
+url: "https://hidrokit.github.io"
 
 # Theme settings
 theme:          tale
