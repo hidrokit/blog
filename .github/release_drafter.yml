@@ -1,0 +1,49 @@
+name-template: '$RESOLVED_VERSION'
+tag-template: '$RESOLVED_VERSION'
+categories:
+  - title: '🚀 Fitur Baru'
+    labels:
+      - 'feature'
+  - title: '✨ Pembaruan'
+    labels:
+      - 'enhancement'
+  - title: '🐛 Perbaikan'
+    labels:
+      - 'bug'
+  - title: '📃 Dokumentasi'
+    labels:
+      - 'docs'
+      - 'documentation'
+  - title: '✍️ Artikel'
+    labels:
+      - 'article'
+      - 'post'
+  - title: '🖥️ Situs'
+    labels:
+      - 'site'
+  - title: '📎 Github'
+    labels:
+      - 'github'
+exclude-labels:
+  - 'ask'
+
+change-template: '- (#$NUMBER) | $TITLE @$AUTHOR'
+change-title-escapes: '\<*_&'
+
+version-resolver:
+  major:
+    labels:
+      - 'major'
+  minor:
+    labels:
+      - 'minor'
+  patch:
+    labels:
+      - 'patch'
+  default: patch
+
+template: |
+  ## Daftar Perubahan/Pembaruan
+  $CHANGES
+  ## Daftar Kontributor
+  $CONTRIBUTORS
