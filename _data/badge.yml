@@ -1,0 +1,8 @@
+- alt: Github Workflow Status
+  src: https://img.shields.io/github/workflow/status/hidrokit/blog/Automatic%20build?logo=jekyll
+
+- alt: GitHub last commit
+  src: https://img.shields.io/github/last-commit/hidrokit/blog.svg
+
+- alt: Github Release
+  src: https://img.shields.io/github/v/release/hidrokit/blog?logo=github
