@@ -1,7 +1,11 @@
 ---
-layout: post
 title: Rilis hidrokit 0.2.0
-author: "Taruma"
+date: 2019-07-15
+categories: [Pengumuman]
+tags: [hidrokit, dokumentasi]
+author:
+  name: Taruma Sakti Megariansyah
+  link: https://taruma.github.io
 ---
 
 [Enam bulan yang lalu](https://medium.com/@taruma/hidrokit-analisis-hidrologi-dengan-python-bdcad9e5865d), saya merilis hidrokit 0.1.0. Pada saat itu, banyak sekali kekurangan dari segi dokumentasi maupun teknis sehingga cukup sulit untuk memulai berkontribusi bagi yang tertarik untuk ikut serta dalam proyek _open-source_ ini. Dengan rilis 0.2.0, saya mencoba menjawab permasalahan tersebut dengan menyertai berbagai fitur untuk paket python hidrokit maupun dokumentasi sehingga memudahkan berkontribusi bagi yang tertarik dengan proyek ini. 
@@ -82,7 +86,7 @@ Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan 
 -----
 ## Situs hidrokit
 
-<img src="https://github.com/taruma/hidrokit/blob/gh-pages/assets/images/presskit/hidrokit-pages.png?raw=true" height="50%" width="50%" alt="Logo Hidrokit">
+<img src="https://github.com/taruma/hidrokit/blob/gh-pages/assets/images/presskit/hidrokit-pages.png?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="Logo Hidrokit">
 
 Situs hidrokit digunakan sebagai situs utama untuk memperoleh informasi mengenai proyek ini. Situs ini dibuat menggunakan [Jekyll](https://jekyllrb.com/) dan [Github Pages](https://pages.github.com/) _hosting_. _Repository_ situs dapat diakses di [cabang gh-pages](https://github.com/taruma/hidrokit/tree/gh-pages).
 
@@ -108,7 +112,8 @@ Berikut halaman penting yang tersedia pada situs hidrokit:
 -----
 ## Situs Hidrokit Notebook
 
-<img src="https://github.com/taruma/hidrokit-nb/blob/master/docs/assets/images/hidrokit-nb-pages.png?raw=true" height="50%" width="50%" alt="Logo Hidrokit Notebook">
+<img src="https://github.com/taruma/hidrokit-nb/blob/master/docs/assets/images/hidrokit-nb-pages.png?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="Logo Hidrokit Notebook">
+
 
 Situs Hidrokit digunakan sebagai situs pelengkap yang berisikan kumpulan jupyter notebook mengenai penggunaan hidrokit dan pemanfaatan python dalam bidang hidrologi. Situs ini dibuat menggunakan [Jekyll](https://jekyllrb.com/) dan [Github Pages](https://pages.github.com/) _hosting_. _Repository_ situs dapat diakses di [hidrokit-nb](https://github.com/taruma/hidrokit-nb/tree/master/docs).
 
@@ -141,7 +146,7 @@ Panduan umum untuk berkontribusi dapat dibaca pada halaman [berkontribusi](https
 Proyek ini berusaha memberi wadah bagi individu yang tertarik berkontribusi di proyek open-source dari berbagai latar belakang. Seperti yang dijelaskan pada halaman [how to contribute](https://opensource.guide/how-to-contribute/), Anda dapat berkontribusi pada proyek selain implementasi kode. Proyek ini juga memberi kesempatan dari berbagai tingkat keahlian. Ilustrasi berkontribusi di Github:
 
 <div align="center">
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allowfullscreen></iframe>
 </div>
 
 - Jika Anda seorang **_praktisi/akademisi di bidang hidrologi_**, Anda bisa menyampaikan ide/fitur yang cocok disertakan di proyek ini, berdiskusi tentang impelementasi pada python, dll.
@@ -193,16 +198,16 @@ Anda bisa membaca FAQ lanjutannya di halaman [Tanya Jawab Rilis Hidrokit 0.2.0](
 
 -----
 
-Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di [halaman github](https://github.com/taruma/hidrokit/issues/new/choose). Anda bisa menghubungi saya melalui email di __tarumainfo@gmail.com__ (Email hi@taruma.info sedang bermasalah) (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).
+Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di [halaman github](https://github.com/taruma/hidrokit/issues/new/choose). Anda bisa menghubungi saya melalui email di __hi@taruma.info__ (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).
 
 Mengakhiri tulisan ini dengan video inspiratif dari Github.
 
 <div align="center">
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/HzZxcfVn_08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/HzZxcfVn_08" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div align="center">
-<small>
+<small class="text-muted mb-2">
 "This project is dedicated to '<i>my younger me</i>'. Good luck! ♥"
 </small>
 </div>

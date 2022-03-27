@@ -1,7 +1,11 @@
 ---
-layout: post
 title: Tanya Jawab hidrokit 0.2.0
-author: "Taruma"
+date: 2019-07-18
+categories: [Pengumuman]
+tags: [hidrokit, dokumentasi]
+author:
+  name: Taruma Sakti Megariansyah
+  link: https://taruma.github.io
 ---
 
 Halaman ini memberikan tambahan FAQ yang dibuat pada halaman rilis hidrokit 0.2.0. Beberapa pertanyaan dialihkan ke halaman ini agar memperingkas halaman rilis hidrokit 0.2.0. Pertanyaannya juga diperoleh dari respon dari berbagai [komunitas/grup](#pertanyaan-dari-komunitasgrup). 
