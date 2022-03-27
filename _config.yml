@@ -28,7 +28,7 @@ tagline: blog komunitas hidrokit   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   open-source blog untuk komunitas hidrokit
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://hidrokit.github.io/blog'
+url: 'https://hidrokit.github.io'
 
 github:
   username: hidrokit             # change to your github username
