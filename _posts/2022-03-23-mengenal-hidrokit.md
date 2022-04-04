@@ -6,7 +6,7 @@ tags: [hidrokit, dokumentasi]
 author:
   name: Taruma Sakti Megariansyah
   link: https://taruma.github.io
-pin: true
+pin: false
 ---
 
 hidrokit adalah proyek _open source_ paket _python_ yang dapat digunakan untuk membantu proses analisis hidrologi dimulai dari pengolahan data, analisis data, dan visualisasi data.
