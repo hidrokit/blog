@@ -1,10 +1,12 @@
 <div align="center">
     <a href="https://hidrokit.github.io/blog">
-    <img src="assets/hidrokit-blog-800x200.jpg">
+    <img src="assets/hidrokit-blog-800x200.png">
     </a>
 </div>
 
 <div align="center" markdown="1">
+
+[![Sponsored by PT. FIAKO Enjiniring Indonesia](https://img.shields.io/badge/sponsored%20by-PT.%20FIAKO%20Enjiniring%20Indonesia-blue.svg)](http://www.fiako.co.id/)
 
 ![GitHub Workflow Status (event)](https://img.shields.io/github/workflow/status/hidrokit/blog/Automatic%20build?event=push&logo=jekyll)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hidrokit/blog.svg)
