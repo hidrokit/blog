@@ -8,7 +8,10 @@ author:
   link: https://taruma.github.io
 ---
 
-Tutorial pemasangan dan pengaturan python ini ditujukan untuk di lingkungan kerja FIAKO Engineering. Sehingga, harap disesuaikan lagi untuk kebutuhan masing-masing. Tutorial ini ditujukan untuk **user** bukan untuk **development**. Bisa dibilang proses pemasangan dan pengaturan untuk ruang kerja python bisa menyulitkan dan ribet awal-awalnya, tapi jika sistem sudah terpasang dengan baik, penggunaannya akan lebih mudah kedepannya. Sehingga, jika ada pertanyaan harap langsung hubungi saya.
+> Tutorial pemasangan dan pengaturan python ini ditujukan untuk di lingkungan kerja FIAKO Engineering. Sehingga, harap disesuaikan lagi untuk kebutuhan masing-masing. 
+{: .prompt-info }
+
+Tutorial ini ditujukan untuk **user** bukan untuk **development**. Bisa dibilang proses pemasangan dan pengaturan untuk ruang kerja python bisa menyulitkan dan ribet awal-awalnya, tapi jika sistem sudah terpasang dengan baik, penggunaannya akan lebih mudah kedepannya. Sehingga, jika ada pertanyaan harap langsung hubungi saya.
 
 # Pendahuluan
 
