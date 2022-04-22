@@ -98,6 +98,32 @@ Pengaturan ini diutamakan untuk VSCode dan Google Colab. Untuk miniconda sudah s
 
 Karena nanti penggunaan akan lebih fokus ke Notebook, saya biasanya menggunakan Google Colab untuk interfacenya. Tapi hal ini dimungkinkan juga pakai VSCode, ini hanya masalah preferensi saja. 
 
+## Google Colab
+
+Jika belum pernah sama sekali membuka [Google Colab](https://colab.research.google.com/), tahapan ini perlu dilakukan agar dibuat folder "Colab Notebooks" di Google Drive.
+
+1. Login ke akun Google.
+2. Buka halaman [Google Colab](https://colab.research.google.com/)
+3. Pilih "New Notebook"
+4. Setelah terbuka notebook dengan judul "Untitled ...", simpan notebook dengan menekan `Ctrl + S`. 
+5. Tutup halamannya.
+
+## Google Drive
+
+Bagian ini bisa dilakukan jika ingin menggunakan _notebook_ saat tidak dapat mengakses Google Colab (internet mati/offline).  
+
+1. Install [Google Drive for Desktop](https://www.google.com/drive/download/). Untuk pengaturan gunakan seperti default.
+2. Jika berhasil maka sistem akan membuat _Drive_ baru di sistem yaitu `G:\` yang dikhususkan untuk Google Drive.
+3. Melalui windows explorer, Buka `G:\` > `My Drive`.
+4. Klik kanan pada folder `Colab Notebooks` kemudian pilih "Offline Access" > "Available Offline" (Jika menggunakan Windows 11 pilih "Show more options") <br>
+![](/assets/img-post/20220421_pp_03.png)
+5. Selesai sudah, notebook yang telah dibuat di Google Colab akan selalu tersedia di mesin Anda. 
+
+Ketika terpasangnya Google Drive for Desktop, hal ini memungkinkan untuk melakukan pekerjaan baik di mesin lokal ataupun cloud. Tergantung kepentingannya. Pengalaman pribadi saya saat melakukan pemodelan _Deep Learning_, saat melatih model, saya menggunakan _cloud server_, tapi saat mengevaluasi hasil model, saya menggunakan mesin lokal. Tapi, rasanya, ini untuk tutorial sebagai _advanced user_ saja, karena perlu pengetahuan koding di pythonnya.  
+
+------
+
+Sudah selesai pemasangan dan pengaturan sistem python, untuk memulai bereksperimen dengan python akan dilanjutkan di tulisan berikutnya. Jika ada pertanyaan, hubungi saya langsung, atau melalui `hi@taruma.info`.
 
 <!-- LINKS -->
 [Anaconda]: https://www.anaconda.com/
