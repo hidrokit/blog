@@ -52,7 +52,7 @@ Berikut tahapan-tahapan untuk melakukan pemasangan dan pengaturan python. Harap 
 8. Kemudian **Install**. 
 9. Selesai sudah tahap instalasi Miniconda. (Bisa dibaca README dan halaman pengenalan Anaconda kalau penasaran. 🤭)
 
-Sebelum melakukan instalasi dibawah ini download file <a href="assets/misc/userhk37.yml" target="_blank" download>userhk37.yml</a>. Simpan ditempat yang mudah diingat. Rekomendasi saya simpan di `D:\`.
+Sebelum melakukan instalasi dibawah ini download file <a href="https://hidrokit.github.io/blog/assets/misc/userhk37.yml" target="_blank" download>userhk37.yml</a>. Simpan ditempat yang mudah diingat. Rekomendasi saya simpan di `D:\`.
 
 1. Buka "Anaconda Prompt (Miniconda3)" melalui start menu (🪟).
 2. Pastikan ada tulisan `(base)` sebelum alamat _working directory_.
