@@ -1,0 +1,41 @@
+# Last update: 2022-04-18
+
+name: userhk37
+
+channels:
+  - conda-forge
+  - defaults
+  
+dependencies:
+  # python version
+  - python=3.7
+  
+  # hidrokit.core
+  - numpy 
+  - pandas
+  - matplotlib
+  
+  # hidrokit.contrib dependencies
+  - scipy # anfrek, ujidist
+  - openpyxl # excel reader
+  - pytables # hdf5 reader
+ 
+  # jupyter
+  - jupyter
+  - jupyterlab
+  
+  # utilities
+  - console_shortcut
+  
+  # lambda-project
+  - xlwings
+  
+  # pip
+  - pip
+  
+  - pip:
+    - hydroerr==1.24
+    - jupyter-http-over-ws==0.0.8
+    - hidrokit
+
+prefix: C:\Miniconda3\envs\userhk37
