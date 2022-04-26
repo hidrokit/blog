@@ -72,7 +72,8 @@ conda env create --file "D:\userhk37.yml"
   - Tunggu untuk conda melakukan _solving environment_.
   - Ketik Yes atau y, untuk melanjutkan pemasangan _environment_ baru.
 5. Tunggu prosesnya sampai selesai. Proses selesai ketika muncul di _Anaconda Prompt_ `(base) C:\Users\...>`
-6. Oke. Tahap pemasangan environment `userhk37` telah selesai.
+6. Setelah itu ketik perintah `jupyter serverextension enable --py jupyter_http_over_ws`.
+7. Oke. Tahap pemasangan environment `userhk37` telah selesai.
 
 ## Visual Studio Code
 
