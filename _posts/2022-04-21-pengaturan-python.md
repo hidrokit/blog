@@ -55,7 +55,7 @@ Berikut tahapan-tahapan untuk melakukan pemasangan dan pengaturan python. Harap 
 8. Kemudian **Install**. 
 9. Selesai sudah tahap instalasi Miniconda. (Bisa dibaca README dan halaman pengenalan Anaconda kalau penasaran. 🤭)
 
-Sebelum melakukan instalasi dibawah ini download file <a href="https://hidrokit.github.io/blog/assets/misc/userhk37.yml" target="_blank" download>userhk37.yml</a>. Simpan ditempat yang mudah diingat. Rekomendasi saya simpan di `D:\`.
+Selanjutnya dilanjutkan dengan pemasangan _virtual environment_ di conda:
 
 1. Buka "Anaconda Prompt (Miniconda3)" melalui start menu (🪟).
 2. Pastikan ada tulisan `(base)` sebelum alamat _working directory_.
@@ -65,15 +65,19 @@ conda update conda
 ```
   - Jika ada update terbaru, ketik Yes atau y, untuk melanjutkan proses update.
 4. Membuat Environment `userhk37`:
-  - Pada _Anaconda Prompt_ ketik perintah `conda env create --file "D:\userhk37.yml"`. (alamat `userhk37.yml` disesuaikan dengan alamat tempat file disimpan)
+  - Pada _Anaconda Prompt_ ketik perintah `conda env create --file "https://github.com/taruma/setup/raw/main/conda/userhk37.yml"`.
 ```batchfile
-conda env create --file "D:\userhk37.yml"
+conda env create --file "https://github.com/taruma/setup/raw/main/conda/userhk37.yml"
 ```
   - Tunggu untuk conda melakukan _solving environment_.
-  - Ketik Yes atau y, untuk melanjutkan pemasangan _environment_ baru.
 5. Tunggu prosesnya sampai selesai. Proses selesai ketika muncul di _Anaconda Prompt_ `(base) C:\Users\...>`
 6. Setelah itu ketik perintah `jupyter serverextension enable --py jupyter_http_over_ws`.
 7. Oke. Tahap pemasangan environment `userhk37` telah selesai.
+
+Jika ternyata sudah melakukan pembuatan environment `userhk37`, Anda bisa memperbaruinya di _Anaconda Prompt_ dengan perintah berikut:
+```batchfile
+conda env update --file "https://github.com/taruma/setup/raw/main/conda/userhk37.yml" --prune
+```
 
 ## Visual Studio Code
 
